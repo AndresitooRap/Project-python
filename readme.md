@@ -2,6 +2,8 @@
 
 Este es un juego clásico de la serpiente implementado en Python utilizando la librería `turtle`. La serpiente se mueve por la pantalla, come comida (representada por un círculo rojo) y crece, mientras el jugador debe evitar las paredes y no colisionar con su propio cuerpo.
 
+Para correr el juego debemos abrir el archivo "game_snake_runner.bat"
+
 ## Características
 
 - Movimiento controlado por las teclas de dirección (arriba, abajo, izquierda, derecha).
